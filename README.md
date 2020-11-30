@@ -15,7 +15,7 @@ Gostack 11 Challenge - ReactJS Concepts (My solution)
 ## Features
 [//]: # (Add the features of your project here:)
 
-- 🎨 **ReactJSs** - ReactJS is an open-source, front end, JavaScript library for building user interfaces or UI components.
+- 🎨 **ReactJS** - ReactJS is an open-source, front end, JavaScript library for building user interfaces or UI components.
 
 
 ## License
